@@ -14,11 +14,7 @@ This project was developed as part of a JavaScript Mini Project to showcase fron
 
 ## 🚀 Live Demo
 
-🔗 Add your GitHub Pages link here
-
-Example:
-
-https://yourusername.github.io/todo-app/
+https://debapriyadutta17.github.io/to-do-list-app/
 
 ---
 
